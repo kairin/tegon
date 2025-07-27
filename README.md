@@ -1,4 +1,8 @@
 
+> ⚠️ **Notice:** This repository has been **archived**.  
+> The team announced that they will not be working on this app anymore.  
+> See the final update in [this Slack message](https://tegoncommunity.slack.com/archives/C07166UF7HB/p1753600020011239).
+
 <br>
 <p align="center">
   <a href="https://tegon.ai">
